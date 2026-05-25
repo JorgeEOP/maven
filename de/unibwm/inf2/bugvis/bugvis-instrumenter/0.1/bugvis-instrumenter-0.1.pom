@@ -10,7 +10,7 @@
   <groupId>de.unibwm.inf2.bugvis</groupId>
   <artifactId>bugvis-instrumenter</artifactId>
   <version>0.1</version>
-  <name>BugVis-Instrumenter</name>
+  <name>BugVis-Instrumenter (local)</name>
   <description>Locally published bugvis-instrumenter.</description>
   <dependencies>
     <dependency>
@@ -22,7 +22,7 @@
     <dependency>
       <groupId>de.unibwm.inf2.bugvis</groupId>
       <artifactId>bugvis-instr-api</artifactId>
-      <version>0.1-SNAPSHOT</version>
+      <version>0.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
