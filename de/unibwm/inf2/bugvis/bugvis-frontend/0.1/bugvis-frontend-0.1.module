@@ -1,0 +1,146 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.unibwm.inf2.bugvis",
+    "module": "bugvis-frontend",
+    "version": "0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "de.unibwm.inf2.bugvis",
+          "module": "control",
+          "version": {
+            "requires": "0.1"
+          }
+        },
+        {
+          "group": "de.unibwm.inf2.bugvis",
+          "module": "model",
+          "version": {
+            "requires": "0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugvis-frontend-0.1.jar",
+          "url": "bugvis-frontend-0.1.jar",
+          "size": 122290,
+          "sha512": "c96f4634c23a7e617c420ab5f2dc00588e1200138407fb7a4ab650bfb42f397b1f9bc03a8d59a2441f34ab7353f3865df2dd5651a3644c1238d7b3a5f5dd0fc0",
+          "sha256": "96ad5cde65a12fcfea00edb9eba089e388092552b3bd1ce017c125d1a3a40f8d",
+          "sha1": "1149425c0423bf0ae812e004ff73de7dacb4f28f",
+          "md5": "0ebabba3ca594dd596728b431862bded"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fifesoft",
+          "module": "rsyntaxtextarea",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
+          "group": "args4j",
+          "module": "args4j",
+          "version": {
+            "requires": "2.37"
+          }
+        },
+        {
+          "group": "de.unibwm.inf2.bugvis",
+          "module": "control",
+          "version": {
+            "requires": "0.1"
+          }
+        },
+        {
+          "group": "de.unibwm.inf2.bugvis",
+          "module": "model",
+          "version": {
+            "requires": "0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bugvis-frontend-0.1.jar",
+          "url": "bugvis-frontend-0.1.jar",
+          "size": 122290,
+          "sha512": "c96f4634c23a7e617c420ab5f2dc00588e1200138407fb7a4ab650bfb42f397b1f9bc03a8d59a2441f34ab7353f3865df2dd5651a3644c1238d7b3a5f5dd0fc0",
+          "sha256": "96ad5cde65a12fcfea00edb9eba089e388092552b3bd1ce017c125d1a3a40f8d",
+          "sha1": "1149425c0423bf0ae812e004ff73de7dacb4f28f",
+          "md5": "0ebabba3ca594dd596728b431862bded"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "bugvis-frontend-0.1-javadoc.jar",
+          "url": "bugvis-frontend-0.1-javadoc.jar",
+          "size": 348926,
+          "sha512": "36a1c16b98c5270334004f8dbb7ac3c4be54a07c3167f38bca2341ccc5d1c25ad64552f43145e286cd8ed1b0309a242fcee6e859278251a7546df93de46f35db",
+          "sha256": "d0ab3097bc16c1f934dcf93d2be9c6d0d61df0ecc1537ac205c52d5e2b9bf5c9",
+          "sha1": "e97a9983053c896e316036e6b20d53f8e9151846",
+          "md5": "3e1b02ef077a63330654a42e39b3f757"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "bugvis-frontend-0.1-sources.jar",
+          "url": "bugvis-frontend-0.1-sources.jar",
+          "size": 54626,
+          "sha512": "b4de593e6ef0c17d75fecb32f11e957342a0257bfbe6eada7d118d846fae7688aca44674190db647d6f88a83a07a2ca807b61e35cb7157da66be72ec9807bb39",
+          "sha256": "86f9ea923efb0189193c86dbcdfbbcc1aabad2325e4b73db3e7c3b1775a6d2aa",
+          "sha1": "9d5a5aa9245f983c34e5fdafac8ea06dba090a53",
+          "md5": "34d96d56b5752651bcbcb0185fcb0e97"
+        }
+      ]
+    }
+  ]
+}
