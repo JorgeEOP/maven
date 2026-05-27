@@ -27,11 +27,11 @@
         {
           "name": "vis-u03-graph-0.1.jar",
           "url": "vis-u03-graph-0.1.jar",
-          "size": 261,
-          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
-          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
-          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
-          "md5": "f43436d6bec321290f6af228ad602604"
+          "size": 25942,
+          "sha512": "2a283beaba68ab20dc74febb20048613d4c3c3ea40aff78c784004b3daff2b722434bbd03bc97430cb98bd6cabf3c6a702e5437328c9030b43c83b854f3d37a6",
+          "sha256": "16dcf8eca1fb7ac7726c9f2279336468eaa6dc4c73cc52eafcb63a337b84197d",
+          "sha1": "5b83e8fc301983ff7f805070080989ab12fd1895",
+          "md5": "868191bfc1fea0fe3097998b84a25b8e"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "vis-u03-graph-0.1.jar",
           "url": "vis-u03-graph-0.1.jar",
-          "size": 261,
-          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
-          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
-          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
-          "md5": "f43436d6bec321290f6af228ad602604"
+          "size": 25942,
+          "sha512": "2a283beaba68ab20dc74febb20048613d4c3c3ea40aff78c784004b3daff2b722434bbd03bc97430cb98bd6cabf3c6a702e5437328c9030b43c83b854f3d37a6",
+          "sha256": "16dcf8eca1fb7ac7726c9f2279336468eaa6dc4c73cc52eafcb63a337b84197d",
+          "sha1": "5b83e8fc301983ff7f805070080989ab12fd1895",
+          "md5": "868191bfc1fea0fe3097998b84a25b8e"
         }
       ]
     },
@@ -77,11 +77,11 @@
         {
           "name": "vis-u03-graph-0.1-javadoc.jar",
           "url": "vis-u03-graph-0.1-javadoc.jar",
-          "size": 261,
-          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
-          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
-          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
-          "md5": "f43436d6bec321290f6af228ad602604"
+          "size": 133471,
+          "sha512": "55546d4ca457ce409d96e5db2e116c935919f35ff12076a53c04fb8367354e611c504622aa89461300a044278aba5d6ecab9374bf410a9aa2663a50057081f3a",
+          "sha256": "2c63d60ace99188b6021c43b25dd552a264beaf6e26e7849b1b9c9e8652a74d0",
+          "sha1": "0b84392b9c19887d37bd8e5f88d1c72e2843a0ae",
+          "md5": "f96c08907b37bedcf85ecacb77680c86"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "vis-u03-graph-0.1-sources.jar",
           "url": "vis-u03-graph-0.1-sources.jar",
-          "size": 261,
-          "sha512": "1487e5a20c9e4d74f298e07c42e96a61be11b7a768c3fbc199ee138cd68e1fc2267d1cfe3f11f288acc05df755315344d052cc5f6f751f126ab4fe1caa5125ea",
-          "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3",
-          "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686",
-          "md5": "f43436d6bec321290f6af228ad602604"
+          "size": 12170,
+          "sha512": "4200f8aeee84616634c448480f9f7dd4b72426f295602dbf09bb11f922342a2fb1d6a67f5ffc6597cc7b25a3116c0014688015c3607694221eac50e682cb562b",
+          "sha256": "3c30fe23238d4d5251da80aa87ab61cee0669ce95a9203132851f685c31860a0",
+          "sha1": "dcc8c5d0acafacd6c23640da6ed051c0bc28bd0e",
+          "md5": "badc98333097ec5ce1b6c848f40f087a"
         }
       ]
     }
