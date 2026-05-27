@@ -15,13 +15,13 @@
   <dependencies>
     <dependency>
       <groupId>de.unibwm.inf2.bugvis</groupId>
-      <artifactId>control</artifactId>
+      <artifactId>bugvis-control</artifactId>
       <version>0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>de.unibwm.inf2.bugvis</groupId>
-      <artifactId>model</artifactId>
+      <artifactId>bugvis-model</artifactId>
       <version>0.1</version>
       <scope>compile</scope>
     </dependency>

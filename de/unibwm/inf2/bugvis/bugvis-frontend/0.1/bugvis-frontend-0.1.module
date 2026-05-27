@@ -26,14 +26,14 @@
       "dependencies": [
         {
           "group": "de.unibwm.inf2.bugvis",
-          "module": "control",
+          "module": "bugvis-control",
           "version": {
             "requires": "0.1"
           }
         },
         {
           "group": "de.unibwm.inf2.bugvis",
-          "module": "model",
+          "module": "bugvis-model",
           "version": {
             "requires": "0.1"
           }
@@ -77,14 +77,14 @@
         },
         {
           "group": "de.unibwm.inf2.bugvis",
-          "module": "control",
+          "module": "bugvis-control",
           "version": {
             "requires": "0.1"
           }
         },
         {
           "group": "de.unibwm.inf2.bugvis",
-          "module": "model",
+          "module": "bugvis-model",
           "version": {
             "requires": "0.1"
           }
