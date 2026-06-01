@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.unibwm.inf2.bugvis",
+    "module": "vis-u05-logistics",
+    "version": "0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.3.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "vis-u05-logistics-0.1.jar",
+          "url": "vis-u05-logistics-0.1.jar",
+          "size": 49238,
+          "sha512": "9ea7f636b79464be4325c8a88016d1757c939bc5bbf6e4b92fb0e541568d0aad8b147751bc80f8beee447985fdcaeddc4740b7262d78c6d527d61d5555cde805",
+          "sha256": "e398e8d673c6b3fa9bf591af4906083a372e1ddfdc2e67e3db60ede28d02826a",
+          "sha1": "d9781fb10b34d2cbf33db9b1b426f658d6d7bba0",
+          "md5": "937cebb2b781e329316c0d1e7f7a1fa2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.unibwm.inf2.bugvis",
+          "module": "bugvis-frontend",
+          "version": {
+            "requires": "0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vis-u05-logistics-0.1.jar",
+          "url": "vis-u05-logistics-0.1.jar",
+          "size": 49238,
+          "sha512": "9ea7f636b79464be4325c8a88016d1757c939bc5bbf6e4b92fb0e541568d0aad8b147751bc80f8beee447985fdcaeddc4740b7262d78c6d527d61d5555cde805",
+          "sha256": "e398e8d673c6b3fa9bf591af4906083a372e1ddfdc2e67e3db60ede28d02826a",
+          "sha1": "d9781fb10b34d2cbf33db9b1b426f658d6d7bba0",
+          "md5": "937cebb2b781e329316c0d1e7f7a1fa2"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vis-u05-logistics-0.1-javadoc.jar",
+          "url": "vis-u05-logistics-0.1-javadoc.jar",
+          "size": 175463,
+          "sha512": "4f5f5b8284288a214b427dee0316748d176d4b6ceb30d6e82f64eec64867802d1ecdbf7d4ccc49f8a0b962320c4d5ef90e5d962521c5a79fdb399d5f3698ccbd",
+          "sha256": "2df47df239c785b85f221688e66819ebc5dcbadfe4a3a675d9b1d9e4cdb6d8c4",
+          "sha1": "20c9b985c864ff32eda5ef29a98b5d3c95e73ed1",
+          "md5": "29cbdb7a608d1d39b4049ff7d0b8a11d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vis-u05-logistics-0.1-sources.jar",
+          "url": "vis-u05-logistics-0.1-sources.jar",
+          "size": 23304,
+          "sha512": "ff47057d1b145f92d837a0e2d8355750054d102d75f714d006c6499eaf27fa874b0100c888ef4844bebea2e857d725f75a1f7fa9727e53536274e9976e78e287",
+          "sha256": "bdf5f20a8f1cf11415ff13e4ba912c675b24a90766e47f255b0eb909499488ed",
+          "sha1": "9b81dfab17117e878186b39e637282db6ab67c81",
+          "md5": "a6718f8bd4ecfde669fc3ed86dbcf01a"
+        }
+      ]
+    }
+  ]
+}
