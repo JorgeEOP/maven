@@ -43,11 +43,11 @@
         {
           "name": "bugvis-frontend-0.1.jar",
           "url": "bugvis-frontend-0.1.jar",
-          "size": 122290,
-          "sha512": "c96f4634c23a7e617c420ab5f2dc00588e1200138407fb7a4ab650bfb42f397b1f9bc03a8d59a2441f34ab7353f3865df2dd5651a3644c1238d7b3a5f5dd0fc0",
-          "sha256": "96ad5cde65a12fcfea00edb9eba089e388092552b3bd1ce017c125d1a3a40f8d",
-          "sha1": "1149425c0423bf0ae812e004ff73de7dacb4f28f",
-          "md5": "0ebabba3ca594dd596728b431862bded"
+          "size": 122308,
+          "sha512": "1d673917750a8e7adcbf96c7bafc1665d7884699801e9080003d234964f2b5e937b4032fba96630085d6cd03c3831933e9db1aeab73f8f80f509ea9c265c744b",
+          "sha256": "097129e9bbf9d4ed8f8d21ff089a72733d67f46fde93b66dee83661d9d26730f",
+          "sha1": "c0b8fa340a8ddc4c82d5a5774413213ec1bcad07",
+          "md5": "a3240fabd5cb1a054941e67424e5d369"
         }
       ]
     },
@@ -94,11 +94,11 @@
         {
           "name": "bugvis-frontend-0.1.jar",
           "url": "bugvis-frontend-0.1.jar",
-          "size": 122290,
-          "sha512": "c96f4634c23a7e617c420ab5f2dc00588e1200138407fb7a4ab650bfb42f397b1f9bc03a8d59a2441f34ab7353f3865df2dd5651a3644c1238d7b3a5f5dd0fc0",
-          "sha256": "96ad5cde65a12fcfea00edb9eba089e388092552b3bd1ce017c125d1a3a40f8d",
-          "sha1": "1149425c0423bf0ae812e004ff73de7dacb4f28f",
-          "md5": "0ebabba3ca594dd596728b431862bded"
+          "size": 122308,
+          "sha512": "1d673917750a8e7adcbf96c7bafc1665d7884699801e9080003d234964f2b5e937b4032fba96630085d6cd03c3831933e9db1aeab73f8f80f509ea9c265c744b",
+          "sha256": "097129e9bbf9d4ed8f8d21ff089a72733d67f46fde93b66dee83661d9d26730f",
+          "sha1": "c0b8fa340a8ddc4c82d5a5774413213ec1bcad07",
+          "md5": "a3240fabd5cb1a054941e67424e5d369"
         }
       ]
     },
@@ -139,6 +139,27 @@
           "sha256": "86f9ea923efb0189193c86dbcdfbbcc1aabad2325e4b73db3e7c3b1775a6d2aa",
           "sha1": "9d5a5aa9245f983c34e5fdafac8ea06dba090a53",
           "md5": "34d96d56b5752651bcbcb0185fcb0e97"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "bugvis-frontend-0.1-all.jar",
+          "url": "bugvis-frontend-0.1-all.jar",
+          "size": 9581572,
+          "sha512": "6cf43c3549eac935f8690dc3fda446cddffcca04d684802a94e56418e8c27b96268231ac52d229bb580554b3b2cb9b6464827c40008e0f666d7d0994ff3b81b9",
+          "sha256": "2320ee17be993deb3271aa2813f67f9d5cb773e029dbb147b101b80f5d066be2",
+          "sha1": "edec53136e3b79dabc82d832fc1e636dccfcc951",
+          "md5": "783dba594715e754b7f3cc8e1eb429fa"
         }
       ]
     }
