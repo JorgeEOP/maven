@@ -7,14 +7,14 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>de.unibwm.inf2.bugvis</groupId>
+  <groupId>de.unibwm.inf2.bugvis.core</groupId>
   <artifactId>bugvis-model</artifactId>
   <version>0.1</version>
   <name>BugVis-Model</name>
   <description>bugvis-model.</description>
   <dependencies>
     <dependency>
-      <groupId>de.unibwm.inf2.bugvis</groupId>
+      <groupId>de.unibwm.inf2.bugvis.core</groupId>
       <artifactId>bugvis-instr-api</artifactId>
       <version>0.1</version>
       <scope>compile</scope>
