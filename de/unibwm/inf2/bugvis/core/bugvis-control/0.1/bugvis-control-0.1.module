@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "de.unibwm.inf2.bugvis",
+    "group": "de.unibwm.inf2.bugvis.core",
     "module": "bugvis-control",
     "version": "0.1",
     "attributes": {
@@ -46,7 +46,7 @@
       },
       "dependencies": [
         {
-          "group": "de.unibwm.inf2.bugvis",
+          "group": "de.unibwm.inf2.bugvis.core",
           "module": "bugvis-model",
           "version": {
             "requires": "0.1"
