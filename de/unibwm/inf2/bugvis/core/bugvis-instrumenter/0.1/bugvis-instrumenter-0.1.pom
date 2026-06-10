@@ -20,7 +20,7 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>de.unibwm.inf2.bugvis</groupId>
+      <groupId>de.unibwm.inf2.bugvis.core</groupId>
       <artifactId>bugvis-instr-api</artifactId>
       <version>0.1</version>
       <scope>runtime</scope>

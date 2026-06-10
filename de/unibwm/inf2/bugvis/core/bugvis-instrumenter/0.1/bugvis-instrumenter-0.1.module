@@ -53,7 +53,7 @@
           }
         },
         {
-          "group": "de.unibwm.inf2.bugvis",
+          "group": "de.unibwm.inf2.bugvis.core",
           "module": "bugvis-instr-api",
           "version": {
             "requires": "0.1"
