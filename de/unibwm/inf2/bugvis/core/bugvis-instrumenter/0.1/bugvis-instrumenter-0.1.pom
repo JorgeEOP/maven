@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>de.unibwm.inf2.bugvis</groupId>
+  <groupId>de.unibwm.inf2.bugvis.core</groupId>
   <artifactId>bugvis-instrumenter</artifactId>
   <version>0.1</version>
   <name>BugVis-Instrumenter</name>

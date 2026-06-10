@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>de.unibwm.inf2.bugvis</groupId>
+  <groupId>de.unibwm.inf2.bugvis.core</groupId>
   <artifactId>bugvis-instr-api</artifactId>
   <versioning>
     <latest>0.1</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>0.1</version>
     </versions>
-    <lastUpdated>20260525145132</lastUpdated>
+    <lastUpdated>20260610110120</lastUpdated>
   </versioning>
 </metadata>
