@@ -11,7 +11,7 @@
   <artifactId>bugvis-instr-api</artifactId>
   <version>0.1</version>
   <name>BugVis-Instr-API (local)</name>
-  <description>Locally published bugvis-instr-api.</description>
+  <description>Locally published bugvis-instr-api</description>
   <dependencies>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
