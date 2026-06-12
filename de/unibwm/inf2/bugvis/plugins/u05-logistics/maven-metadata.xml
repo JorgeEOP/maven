@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>de.unibwm.inf2.bugvis</groupId>
-  <artifactId>vis-u05-logistics</artifactId>
+  <groupId>de.unibwm.inf2.bugvis.plugins</groupId>
+  <artifactId>u05-logistics</artifactId>
   <versioning>
     <latest>0.1</latest>
     <release>0.1</release>
     <versions>
       <version>0.1</version>
     </versions>
-    <lastUpdated>20260602133109</lastUpdated>
+    <lastUpdated>20260612121741</lastUpdated>
   </versioning>
 </metadata>

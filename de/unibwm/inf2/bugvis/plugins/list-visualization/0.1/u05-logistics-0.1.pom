@@ -7,14 +7,14 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>de.unibwm.inf2.bugvis</groupId>
-  <artifactId>vis-u05-logistics</artifactId>
+  <groupId>de.unibwm.inf2.bugvis.plugins</groupId>
+  <artifactId>u05-logistics</artifactId>
   <version>0.1</version>
-  <name>Vis-u05-Logistics</name>
+  <name>u05-Logistics</name>
   <description>Visualization Plugin for Exercise Sheet 5: Logistics</description>
   <dependencies>
     <dependency>
-      <groupId>de.unibwm.inf2.bugvis</groupId>
+      <groupId>de.unibwm.inf2.bugvis.core</groupId>
       <artifactId>bugvis-frontend</artifactId>
       <version>0.1</version>
       <scope>runtime</scope>
