@@ -10,14 +10,6 @@
   <groupId>de.unibwm.inf2.bugvis.plugins</groupId>
   <artifactId>u03-graph</artifactId>
   <version>0.1</version>
-  <name>u03-Graph</name>
-  <description>Visualization Plugin for Exercise Sheet 3: Graphs</description>
-  <dependencies>
-    <dependency>
-      <groupId>de.unibwm.inf2.bugvis.core</groupId>
-      <artifactId>bugvis-frontend</artifactId>
-      <version>0.1</version>
-      <scope>runtime</scope>
-    </dependency>
-  </dependencies>
+  <packaging>pom</packaging>
+  <name>u03-graph</name>
 </project>
