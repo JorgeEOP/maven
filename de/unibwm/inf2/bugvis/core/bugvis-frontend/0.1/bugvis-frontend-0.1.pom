@@ -8,34 +8,8 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.unibwm.inf2.bugvis.core</groupId>
-  <artifactId>bugvis-frontend</artifactId>
+  <artifactId>bugvis-frontend-fat</artifactId>
   <version>0.1</version>
+  <packaging>pom</packaging>
   <name>BugVis-Frontend</name>
-  <description>bugvis-frontend.</description>
-  <dependencies>
-    <dependency>
-      <groupId>de.unibwm.inf2.bugvis.core</groupId>
-      <artifactId>bugvis-control</artifactId>
-      <version>0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>de.unibwm.inf2.bugvis.core</groupId>
-      <artifactId>bugvis-model</artifactId>
-      <version>0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.fifesoft</groupId>
-      <artifactId>rsyntaxtextarea</artifactId>
-      <version>3.6.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>args4j</groupId>
-      <artifactId>args4j</artifactId>
-      <version>2.37</version>
-      <scope>runtime</scope>
-    </dependency>
-  </dependencies>
 </project>
